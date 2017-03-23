@@ -2,15 +2,15 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/probberechts
+  Projects: /projects/
 
-projects_url: http://github.com/probberechts
+# projects_url: http://github.com/probberechts
 
 customize:
     gravatar:
         email: 
     logo:
-        enabled: true
+        enabled: false
         width: 50
         height: 50
         url: /images/logo.png
@@ -27,10 +27,10 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
-        facebook: /
-        linkedin: /
+        github: http://github.com/kirkbyers/cactus-dark
+        # twitter: /
+        # facebook: /
+        # linkedin: /
     post_count: 5
     highlight: rainbow
 
@@ -40,7 +40,7 @@ rss: false
 # Plugins
 plugins:
     disqus_shortname: # Disqus Comments Shortname
-    google_analytics: UA-86660611-1 # enter the tracking ID for your Google Analytics
+    google_analytics: # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
 miscellaneous:
