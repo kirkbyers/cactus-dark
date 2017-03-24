@@ -3,8 +3,6 @@ nav:
   Projects: /projects/
   Writing: /archives/
 
-# projects_url: http://github.com/probberechts
-
 customize:
     gravatar:
         email: 
